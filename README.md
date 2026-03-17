@@ -3,7 +3,7 @@
 # Olá, eu sou o Gustavo! 👋
 
 Estudante de **Ciência da Computação** na [UEM](https://www.uem.br/) (Universidade Estadual de Maringá) — 3º ano.
-Membro do **IEEE Student Chapter UEM**, trabalhando em um projeto de Cybersecurity.
+Membro do **IEEE Student Chapter UEM**, trabalhando em um projeto de Cibersegurança.
 
 ---
 
@@ -13,6 +13,7 @@ Membro do **IEEE Student Chapter UEM**, trabalhando em um projeto de Cybersecuri
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?style=for-the-badge&logo=gleam&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -28,7 +29,8 @@ Membro do **IEEE Student Chapter UEM**, trabalhando em um projeto de Cybersecuri
 ## 🎯 Atualmente
 
 - 🔐 Desenvolvendo projeto de **Cybersecurity** no IEEE/UEM
-- 📚 Estudando **Linguagens de Programação**, **SQL** , **SOs**.
+- 📚 Estudando **Python avançado**, **SQL** e fundamentos de **Sistemas Operacionais**
+- 🌎 Aprimorando o **inglês** (leitura técnica e conversação)
 
 ---
 
