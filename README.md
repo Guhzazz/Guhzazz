@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Olá, eu sou o Gustavo! 👋
+# Olá, eu sou o Gustavo! 
 
 Estudante de **Ciência da Computação** na [UEM](https://www.uem.br/) (Universidade Estadual de Maringá) — 3º ano.
 Membro do **IEEE Student Chapter UEM**, trabalhando em um projeto de Cibersegurança.
