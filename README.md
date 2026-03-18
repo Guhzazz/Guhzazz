@@ -27,7 +27,7 @@ Membro do **IEEE Student Chapter UEM**, trabalhando em um projeto de Cibersegura
 
 ## 🎯 Atualmente
 
-- 🔐 Desenvolvendo projeto de **Cybersecurity** no IEEE/UEM
+- 🔐 Desenvolvendo projeto de **Cibersegurança** no IEEE/UEM
 - 📚 Estudando **Python avançado**, **SQL** e fundamentos de **Sistemas Operacionais**
 - 🌎 Aprimorando o **inglês** (leitura técnica e conversação)
 
